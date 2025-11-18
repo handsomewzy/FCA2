@@ -51,7 +51,7 @@ If the installation fails or if you encounter missing-package issues during test
 Run the scripts:
 
 ```bash
-python basicsr/test.py -opt script/test_sota.yml
+python basicsr/train.py -opt script/your.yml
 ```
 
 A variety of YAML configuration files are provided under the `script/` directory, offering extensive options for hyperparameter tuning, model selection, dataset paths, and pretrained checkpoint locations. Before running the test script, please make sure to correctly set the **dataset directory**, **pretrained model paths**, and **target model configuration** in your chosen YAML file.
