@@ -67,7 +67,7 @@ Since the repository provides support for numerous models and benchmarking setti
 
 ## 📌 Acknowledgements
 
-This work builds upon the foundations of **mmagic**, **CAVSR**, and **DIffIQA**. We sincerely thank the authors of these projects for their valuable contributions and open-source implementations.
+This work builds upon the foundations of **mmagic**, **CAVSR**, and **DIffV2IQA**. We sincerely thank the authors of these projects for their valuable contributions and open-source implementations.
 
 ---
 
